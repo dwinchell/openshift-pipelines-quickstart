@@ -3,4 +3,5 @@ kind: Kustomization
 
 resources:
   - easymode.yml
+  - everything.yml
   - minimal.yml
